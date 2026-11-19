@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://secura.ink">
-    <img src="https://secura.ink/favicon.ico" alt="Secura Logo" width="84" height="84" />
+    <img alt="secura-icon" src="https://github.com/user-attachments/assets/c2217a84-f855-44f9-89e9-5bcb71b76727" width="150" height="150"/>
   </a>
 
   # Secura — Code Security & Secret Gate
